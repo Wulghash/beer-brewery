@@ -29,5 +29,10 @@ public class BeerServiceImpl implements BeerService {
         // toDo later implemention
     }
 
+    @Override
+    public void deleteBeer(UUID beerId) {
+        //TODO later implementation
+    }
+
 
 }
